@@ -1,6 +1,7 @@
 # Operating Systems Coursework Journal
 
-**Student:** Salina  
+**Student:** Salina Gurung
+**Student ID:** A00029383
 **Module:** Operating Systems  
 **Environment:** Ubuntu Workstation & Ubuntu Server (VirtualBox)
 
