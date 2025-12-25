@@ -14,10 +14,8 @@ The Ubuntu Workstation is used for user interaction and administrative
 tasks, while the Ubuntu Server is intended for backend services and
 server-side operations. Both systems obtain IP addresses dynamically
 through VirtualBox’s internal DHCP service.
-
-<img src="media/image1.png" style="width:4.19167in;height:5.29583in"
-alt="A diagram of a computer workflow AI-generated content may be incorrect." />
-https://salina259.github.io/Operating-System-CW/images/week1/sys-design.png
+## 1. System Architecture Diagram
+![System Architecture Diagram](../images/week1/sys-design.png)
 
 **2. Distribution Selection Justification (Server)**
 
@@ -92,11 +90,11 @@ appropriate to their roles.
 
 This is my Ubuntu WorkStation :
 
-<img src="media/image2.png" style="width:6.26806in;height:3.96458in"
-alt="A computer screen shot of a program AI-generated content may be incorrect." />
+## Ubuntu Workstation
+![Ubuntu Workstation](../images/week1/workstation.png)
 
 This is Ubuntu Server:
 
-<img src="media/image3.png" style="width:6.26806in;height:4.64722in"
-alt="A screenshot of a computer screen AI-generated content may be incorrect." />
+## Ubuntu Server
+![Ubuntu Server](../images/week1/server.png)
 
