@@ -30,49 +30,37 @@ administration.
 
 **2.1 SSH into Ubuntu Server**
 
-<img src="images/media/image1.png"
-style="width:6.26806in;height:4.42222in"
-alt="A screenshot of a computer" />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/375663b58f97b2e874111b2dad0cd00b455fbc1a/images/Week%203/ssh-server.png)
 
 **Figure 2.1:** SSH connection to Ubuntu Server
 
 **2.2 Update Package Index**
 
-<img src="images/media/image2.png"
-style="width:4.6504in;height:1.20844in"
-alt="A screen shot of a computer AI-generated content may be incorrect." />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/fbdd2c8c24ff6f462e32285c56a32e56bbf8ea97/images/Week%203/apt-update.png)
 
 **Figure 2.2:** Updating package list on Ubuntu Server via SSH
 
 **2.3 Install stress-ng (CPU & RAM testing)**
 
-<img src="images/media/image3.png"
-style="width:4.2837in;height:0.83341in"
-alt="A black screen with white text AI-generated content may be incorrect." />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/fefdd4bf8d7b3ba98ca735491e54d735be09a93c/images/Week%203/stress-ng.png)
 
 **Figure 2.3:** Installing stress-ng on Ubuntu Server via SSH
 
 **2.4 Install fio(Disk I/O testing**
 
-<img src="images/media/image4.png"
-style="width:4.20036in;height:0.79174in"
-alt="A black screen with white text AI-generated content may be incorrect." />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/a8d6ad10355244871bbebe81e1c62ee5765ccb22/images/Week%203/fio-y.png)
 
 **Figure 2.4:** Installing fio on Ubuntu Server via SSH
 
 **2.5 Install iperf3 (Network testing)**
 
-<img src="images/media/image5.png"
-style="width:4.24203in;height:0.79174in"
-alt="A black screen with white text AI-generated content may be incorrect." />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/92cc4f1cb2a20d7dd5cbbf2c6a51968f24ac7ede/images/Week%203/iperf3-y.png)
 
 **Figure 2.5:** Installing iperf3 on Ubuntu Server via SSH
 
 **2.6 Install Apache2 (Server workload)**
 
-<img src="images/media/image6.png"
-style="width:4.35871in;height:0.79174in"
-alt="A black screen with white text AI-generated content may be incorrect." />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/25539af16a5183dd11c48291bd4a2779607ade90/images/Week%203/apache2-y.png)
 
 **Figure 2.6:** Installing Apache2 web server on Ubuntu Server via SSH
 
