@@ -108,15 +108,13 @@ activity</p></td>
 
 - df -h – disk usage monitoring
 
-> <img src="media/image3.png" style="width:6.09219in;height:1.84183in"
-> alt="A screenshot of a computer program AI-generated content may be incorrect." />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/a40eca4198db69e94570db0be764451eff97e5ec/images/Week%202/vmstat.png)
 >
 > Figure 3: Using vmstat, df -h, uptime
 
 - journalctl – system log analysis
 
-<img src="media/image4.png" style="width:6.26806in;height:4.04792in"
-alt="A screen shot of a computer AI-generated content may be incorrect." />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/ea215ddab970b42fece22ffc74d5924a3ba9d912/images/Week%202/journalctl.png)
 
 Figure 4: Using journalctl
 
@@ -133,8 +131,7 @@ The OpenSSH service was installed and enabled to allow secure remote
 access. Root login is disabled, and administrative tasks are performed
 using a non-root user with sudo.
 
-<img src="media/image5.png" style="width:5.65882in;height:0.88341in"
-alt="A computer screen with white text AI-generated content may be incorrect." />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/b700ecef258bbca18fbafd242b6cd0ae0c776d70/images/Week%202/ssh.png)
 
 **Figure 6:** SSH service running on Ubuntu Server (systemctl status
 ssh)
@@ -144,8 +141,7 @@ ssh)
 The Uncomplicated Firewall (UFW) was enabled with a default policy to
 deny incoming connections. SSH traffic on port 22 is explicitly allowed.
 
-<img src="media/image6.png" style="width:4.15869in;height:1.38345in"
-alt="A screenshot of a computer AI-generated content may be incorrect." />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/81110aab5742fd00a16318f952afe6d3e328924b/images/Week%202/firewall.png)
 
 **Figure 7:** UFW firewall enabled and configured to allow SSH traffic
 only (ufw status verbose).
