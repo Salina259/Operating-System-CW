@@ -95,6 +95,5 @@ This is my Ubuntu WorkStation :
 
 This is Ubuntu Server:
 
-## Ubuntu Server
-![Ubuntu Server](../images/week1/server.png)
+https://github.com/Salina259/Operating-System-CW/blob/7b10b7aa70b76f22ed08cb216cc41d7281569b28/images/WEEK%201/server.png
 
