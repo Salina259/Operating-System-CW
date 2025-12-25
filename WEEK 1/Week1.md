@@ -91,7 +91,7 @@ appropriate to their roles.
 This is my Ubuntu WorkStation :
 
 ## Ubuntu Workstation
-![image alt]![Ubuntu Workstation](../images/week1/workstation.png)
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/6ce9aa49e662d9bbb22e24de197d859313549976/WEEK%201/Workstation.png)
 
 This is Ubuntu Server:
 
