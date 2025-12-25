@@ -17,8 +17,7 @@ constraints of the coursework.
 
 **2.1 Generating SSH Keys on the Ubuntu Workstation**
 
-<img src="images/media/image1.png"
-style="width:6.26806in;height:4.23889in" />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/d970ede8c031e24bd076276c4aa93f16ab847323/images/Week%204/ssh-keygen.png)
 
 **Figure 1:** Creation of an Ed25519 SSH key pair on the Ubuntu
 workstation.
@@ -32,9 +31,7 @@ brute-force attacks.
 
 **2.2 Public Key Deployment to the Ubuntu Server**
 
-<img src="images/media/image2.png"
-style="width:6.26806in;height:3.84583in"
-alt="A screenshot of a computer program" />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/64adf2c57eba11ffabe8fd4accf5e131cb30fc29/images/Week%204/ssh.png)
 
 **Figure 2:** Deployment of the public SSH key to the Ubuntu Server.
 
@@ -49,16 +46,12 @@ intended.
 
 **2.3 Disabling Password Authentication on the Server**
 
-<img src="images/media/image3.png"
-style="width:6.26806in;height:3.90139in"
-alt="A screenshot of a computer AI-generated content may be incorrect." />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/497e46ecad79a61cfef31ec22538f9b0f5ab7df2/images/Week%204/password.png)
 
 **Figure 3:** Hardening SSH authentication settings in the SSH daemon
 configuration file.
 
-<img src="images/media/image4.png"
-style="width:6.26806in;height:2.82847in"
-alt="A screenshot of a computer program AI-generated content may be incorrect." />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/2247032717725c89d320b2d010d7466d89dad3cc/images/Week%204/disable-pw.png)
 
 **Figure 4:** Disable password-based authentication in SSH
 configuration.
@@ -72,9 +65,7 @@ the configuration updates.
 
 **3. Network Access Control Using UFW**
 
-<img src="images/media/image5.png"
-style="width:6.26806in;height:3.61111in"
-alt="A screenshot of a computer program AI-generated content may be incorrect." />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/64355fde8e41884e727b7bb4b5db99fa346a82bd/images/Week%204/ufw.png)
 
 **Figure 5:** UFW firewall configured to restrict SSH access to a
 trusted workstation.
@@ -90,9 +81,7 @@ administrative access.
 
 **4.1 Non-Root Administrative User Validation**
 
-<img src="images/media/image6.png"
-style="width:6.26806in;height:0.84097in"
-alt="A black and purple background" />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/a5400b10e3316a5d4147e2c6960fcbb05692e770/images/Week%204/whoami.png)
 
 **Figure 6:** Verification of sudo privileges for a non-root
 administrative user.
