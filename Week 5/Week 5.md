@@ -15,9 +15,7 @@ from the Ubuntu workstation.
 
 **2.1 AppArmor Status Verification**
 
-<img src="images/media/image1.png"
-style="width:6.26806in;height:5.35486in"
-alt="A screenshot of a computer program" />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/031ad31fc622ffa62dd04f82452e980f1d91485e/images/Week%205/aa-status.png)
 
 **Figure 1:** Output of the aa-status command showing AppArmor module
 status and loaded profiles.
@@ -36,8 +34,7 @@ visibility into potential security issues.
 
 **2.2 Enforced Profile Count Confirmation**
 
-<img src="images/media/image2.png"
-style="width:4.45872in;height:0.38337in" />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/b21dc0bcddae3b7a27efd3e7944adaf7fef2cfe5/images/Week%205/result.png)
 
 **Figure 2:** Result of aa-status --enforced confirming the number of
 enforced profiles.
@@ -52,8 +49,7 @@ contributing to the system’s defence-in-depth security model.
 
 **3.1 Unattended-Upgrades Package Verification**
 
-<img src="images/media/image3.png"
-style="width:6.10053in;height:1.28344in" />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/3d13c9eef8046bd951858e04d4d4394d1a1665e2/images/Week%205/unattended.png)
 
 **Figure 3:** Verification of unattended-upgrades installation status.
 
@@ -71,9 +67,7 @@ configuration can be applied to fully automate update behaviour.
 
 **4.1 fail2ban Installation Verification**
 
-<img src="images/media/image4.png"
-style="width:5.34213in;height:1.14177in"
-alt="A screenshot of a computer program" />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/a8100e098640a35d3adc578af1fa7580633064c8/images/Week%205/fail2ban.png)
 
 **Figure 4:** fail2ban package installation confirmation.
 
@@ -83,9 +77,7 @@ and up to date on the system.
 
 **4.2 Service Enablement and Status Check**
 
-<img src="images/media/image5.png"
-style="width:6.26806in;height:2.54236in"
-alt="A computer screen shot of a program" />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/e8ce9911e49d05aeafb553342ed325852371bc1d/images/Week%205/status-fail2ban.png)
 
 **Figure 5:** fail2ban service status showing active operation.
 
