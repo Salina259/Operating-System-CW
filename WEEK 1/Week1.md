@@ -17,6 +17,7 @@ through VirtualBox’s internal DHCP service.
 
 <img src="media/image1.png" style="width:4.19167in;height:5.29583in"
 alt="A diagram of a computer workflow AI-generated content may be incorrect." />
+https://salina259.github.io/Operating-System-CW/images/week1/sys-design.png
 
 **2. Distribution Selection Justification (Server)**
 
