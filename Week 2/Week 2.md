@@ -98,8 +98,7 @@ activity</p></td>
 
 - htop – real-time CPU and memory usage monitoring
 
-> <img src="media/image2.png" style="width:6.26806in;height:3.92778in"
-> alt="A screenshot of a computer AI-generated content may be incorrect." />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/e141a5ecc129c30fd02a79b790a87fd02d6d6cb7/images/Week%202/htop.png)
 >
 > Figure 2: Real-time CPU and memory monitoring using htop
 
