@@ -15,7 +15,7 @@ tasks, while the Ubuntu Server is intended for backend services and
 server-side operations. Both systems obtain IP addresses dynamically
 through VirtualBox’s internal DHCP service.
 ## 1. System Architecture Diagram
-![System Architecture Diagram](../images/week1/sys-design.png)
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/f419b801d49c47101f5ed0b8106f5a70d9dfb83c/WEEK%201/sys-diagram.png)
 
 **2. Distribution Selection Justification (Server)**
 
@@ -91,7 +91,7 @@ appropriate to their roles.
 This is my Ubuntu WorkStation :
 
 ## Ubuntu Workstation
-![Ubuntu Workstation](../images/week1/workstation.png)
+![image alt]![Ubuntu Workstation](../images/week1/workstation.png)
 
 This is Ubuntu Server:
 
