@@ -21,8 +21,7 @@ detect performance degradation or suspicious activity.
 The prompt salina@Ubuntu-Server:~\$ confirms a successful SSH connection
 from the Ubuntu Workstation to the Ubuntu Server.
 
-<img src="media/image1.png" style="width:2.21686in;height:0.60839in"
-alt="A purple and green text AI-generated content may be incorrect." />
+![image alt](https://github.com/Salina259/Operating-System-CW/blob/91f9d1f15d18727f34fef443082c302457378f9c/images/Week%202/ub-server.png)
 
 **Figure 1:** Secure SSH connection from Ubuntu Workstation to Ubuntu
 Server, demonstrating remote monitoring access.
