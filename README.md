@@ -15,15 +15,28 @@ following secure system administration best practices.
 
 ---
 
-## 🗂 Weekly Journal Navigation
+📂 Repository Structure
 
-- [Week 1 – System Planning & Architecture](WEEK1/)
-- [Week 2 – Security Planning & Threat Modelling](Week%202/)
-- [Week 3 – Application Selection & Testing Plan](Week%203/)
-- [Week 4 – Initial Configuration & SSH Security](Week%204/)
-- [Week 5 – Advanced Security & Monitoring](Week%205/)
-- [Week 6 – Performance Evaluation & Optimisation](Week%206/)
-- [Week 7 – Security Audit & Final Evaluation](Week%207/)
+Week 1 – System Planning and Distribution Selection
+Focus on virtual machine architecture, operating system selection, and resource planning.
+
+Week 2 – Security Planning and Performance Methodology
+Covers security baselines, SSH configuration, firewall setup, and monitoring concepts.
+
+Week 3 – Application Selection for Performance Testing
+Selection and justification of tools used for performance testing.
+
+Week 4 – Security Auditing and System Hardening
+Includes auditing principles, SSH hardening, and defence-in-depth strategies.
+
+Week 5 – Network Configuration Fundamentals
+Covers OSI model concepts, IP addressing, and basic network performance.
+
+Week 6 – Performance Evaluation and Analysis
+Focus on performance metrics, testing results, and bottleneck analysis.
+
+Week 7 – Performance Optimisation and System Tuning
+Covers optimisation techniques, resource tuning, and final evaluation.
 
 ---
 
@@ -44,7 +57,7 @@ A full system demonstration video has been submitted separately, covering system
 security controls, monitoring scripts, and performance analysis.
 
 ---
+📝 Notes
 
-## 📌 Repository Link
+All diagrams and screenshots used in the coursework are stored in the images folder and referenced within the weekly content.
 
-https://github.com/Salina259/Operating-System-CW
